@@ -22,3 +22,12 @@ div[class^="col"] {
 .green {
     background-color: #addcae;
 }
+/* END OF FIRST GRID */
+
+#box2 {
+    height: 15%;
+}
+
+#box3 {
+    height: 85%;
+}
