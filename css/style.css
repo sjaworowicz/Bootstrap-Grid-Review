@@ -1,0 +1,24 @@
+div[class^="col"] {
+    border: 4px solid black;
+    min-height: 275px;
+}
+
+.blue {
+    background-color: #8fbaef;
+}
+
+.yellow {
+    background-color: #ffed7f;
+}
+
+.gray {
+    background-color: #e4e4e4;
+}
+
+.red {
+    background-color: #e49e9e;
+}
+
+.green {
+    background-color: #addcae;
+}
